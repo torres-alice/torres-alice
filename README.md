@@ -1,4 +1,9 @@
-## Hi there 👋
+# Alice Torres
+## Olá, Mundo! :globe_with_meridians:👩‍💻 
+👩‍💻 Estudante de Ciência da Computação | Apaixonada por Tecnologia e Inovação
+
+Atualmente cursando Ciência da Computação, tenho me dedicado ao desenvolvimento de habilidades técnicas e práticas em áreas como programação, algoritmos, estruturas de dados, desenvolvimento de software e inteligência artificial. Minha jornada acadêmica tem sido marcada pela busca constante por conhecimento e pela aplicação de soluções tecnológicas para resolver problemas reais.
+![harry potter gif] (https://media1.tenor.com/m/mxJ2VHJwoE8AAAAd/catch-letter-daniel-radcliffe.gif)
 
 <!--
 **torres-alice/torres-alice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
