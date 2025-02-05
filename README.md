@@ -3,9 +3,14 @@
 ## Olá, Mundo! :globe_with_meridians:👩‍💻 
 👩‍💻 Estudante de Ciência da Computação | Apaixonada por Tecnologia e Inovação
 
-Atualmente cursando Ciência da Computação, tenho me dedicado ao desenvolvimento de habilidades técnicas e práticas em áreas como programação. Minha jornada acadêmica tem sido marcada pela busca constante por conhecimento e pela aplicação de soluções tecnológicas para resolver problemas reais.
-
-![gif potter](https://media1.tenor.com/m/3xlYGaedhAMAAAAC/happy-joy.gif)
+Atualmente cursando Ciência da Computação, tenho me dedicado ao desenvolvimento de habilidades técnicas e práticas em áreas como programação.
+Minha jornada acadêmica tem sido marcada pela busca constante por conhecimento e pela aplicação de soluções tecnológicas para resolver problemas reais.
+##
+<div align="center">
+ 
+   ![gif potter](https://media1.tenor.com/m/3xlYGaedhAMAAAAC/happy-joy.gif)
+  
+</div>
 
 
 ## Ferramentas e Tecnologias
