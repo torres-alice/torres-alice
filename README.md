@@ -1,21 +1,27 @@
+>desenvolvedora front-end
 # Alice Torres
 ## Olá, Mundo! :globe_with_meridians:👩‍💻 
 👩‍💻 Estudante de Ciência da Computação | Apaixonada por Tecnologia e Inovação
 
-Atualmente cursando Ciência da Computação, tenho me dedicado ao desenvolvimento de habilidades técnicas e práticas em áreas como programação, algoritmos, estruturas de dados, desenvolvimento de software e inteligência artificial. Minha jornada acadêmica tem sido marcada pela busca constante por conhecimento e pela aplicação de soluções tecnológicas para resolver problemas reais.
-![harry potter gif] (https://media1.tenor.com/m/mxJ2VHJwoE8AAAAd/catch-letter-daniel-radcliffe.gif)
+Atualmente cursando Ciência da Computação, tenho me dedicado ao desenvolvimento de habilidades técnicas e práticas em áreas como programação. Minha jornada acadêmica tem sido marcada pela busca constante por conhecimento e pela aplicação de soluções tecnológicas para resolver problemas reais.
 
-<!--
-**torres-alice/torres-alice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![gif potter](https://media1.tenor.com/m/3xlYGaedhAMAAAAC/happy-joy.gif)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Ferramentas e Tecnologias
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" widht="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/>
+
+
+## Contatos
+ <div>
+   <a href=https://www.linkedin.com/in/alice-torres-dev/ target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+   <a href = "mailto:contato@torresalice.dev@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ </div>
+
+##
+
+
+
+- 🌱 I’m currently learning: HTML, CSS e JavaScript
+- ⚡ Fun fact: Amo assitir doramas, filmes da Marvel e Herry potter( se eu não falasse ninguém iria perceber né kkkk)
