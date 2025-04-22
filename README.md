@@ -1,4 +1,4 @@
->desenvolvedora front-end
+>Data Science | Python | Desenvolvedora front-end
 # Alice Torres
 ## Olá, Mundo! :globe_with_meridians:👩‍💻 
 👩‍💻 Estudante de Ciência da Computação | Apaixonada por Tecnologia e Inovação
@@ -13,7 +13,7 @@ Minha jornada acadêmica tem sido marcada pela busca constante por conhecimento 
 </div>
 
 - 🌱 I’m currently learning: HTML, CSS e JavaScript
-- ⚡ Fun fact: Amo assitir doramas, filmes de Romance, filmes da Marvel e Herry potter( se eu não falasse ninguém iria perceber né kkkk)
+- ⚡ Fun fact: Amo doramas, filmes de Romance, filmes da Marvel e Herry potter.
 
  #
 <div align="center">
