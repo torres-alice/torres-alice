@@ -1,10 +1,12 @@
 >Data Science | Python | Desenvolvedora front-end
 # Alice Torres
 ## Olá, Mundo! :globe_with_meridians:👩‍💻 
-👩‍💻 Estudante de Ciência da Computação | Apaixonada por Tecnologia e Inovação
+💡 Estudante de Ciência da Computação | Formação em Data Science e Front-end | Apaixonada por dados, tecnologia e aprendizado contínuo
 
-Atualmente cursando Ciência da Computação, tenho me dedicado ao desenvolvimento de habilidades técnicas e práticas em áreas como programação.
-Minha jornada acadêmica tem sido marcada pela busca constante por conhecimento e pela aplicação de soluções tecnológicas para resolver problemas reais.
+Atualmente curso Ciência da Computação e me especializo com formações técnicas em Data Science e Front-end. Tenho experiência prática com suporte técnico e análise de requisitos, e estou em constante evolução para atuar de forma estratégica com dados.
+
+Acredito no poder da tecnologia para transformar realidades e gosto de unir pensamento analítico à resolução de problemas reais. Meu foco é desenvolver soluções que gerem impacto, apoiadas em dados e inteligência.
+
 ##
 <div align="center">
  
