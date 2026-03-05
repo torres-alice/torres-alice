@@ -1,7 +1,7 @@
->Data Science | Python | Desenvolvedora front-end
+
 # Alice Torres
 ## Olá, Mundo! :globe_with_meridians:👩‍💻 
-💡 Estudante de Ciência da Computação | Formação em Data Science e Front-end | Apaixonada por dados, tecnologia e aprendizado contínuo
+💡 Estudante de Ciência da Computação | Apaixonada por dados, tecnologia e aprendizado contínuo
 
 Atualmente curso Ciência da Computação e me especializo com formações técnicas em Data Science e Front-end. Tenho experiência prática com suporte técnico e análise de requisitos, e estou em constante evolução para atuar de forma estratégica com dados.
 
@@ -14,7 +14,7 @@ Acredito no poder da tecnologia para transformar realidades e gosto de unir pens
   
 </div>
 
-- 🌱 I’m currently learning: HTML, CSS e JavaScript
+
 - ⚡ Fun fact: Amo doramas, filmes de Romance, filmes da Marvel e Herry potter.
 
  #
@@ -22,7 +22,8 @@ Acredito no poder da tecnologia para transformar realidades e gosto de unir pens
  
   <img src="https://avatars.githubusercontent.com/u/196205884?s=400&u=9ccff818fb321790e37bcb4d5637a62c16bba674&v=4" width="290" align="right" style="margin-right: 20px; vertical-align: middle; margin-top: 10px;" />
   
-  ### 🛠️ Tecnologias e Ferramentas
+  ## 🛠️ Tecnologias e Ferramentas
+<!--
 
   | Categoria       | Tecnologias/Ferramentas                                                                 |
   |-----------------|-----------------------------------------------------------------------------------------|
@@ -32,7 +33,7 @@ Acredito no poder da tecnologia para transformar realidades e gosto de unir pens
   | **Banco de Dados** | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) |
   | **Ferramentas** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) |
 </div>
-
+-->
 #
 ## 🏆 Conquistas
 #
